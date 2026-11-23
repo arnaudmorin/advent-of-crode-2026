@@ -25,7 +25,7 @@ day-02/   → December 2nd
 day-24/   → December 24th 🎅
 ```
 
-Each folder contains its app's source code and a `README.md` describing what it does, how to run it, and how AI was used to build it.
+Each folder contains its app's source code and a `README.md` describing what it does and how to run it if it's not so crade.
 
 ## Calendar
 
